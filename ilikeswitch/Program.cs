@@ -30,7 +30,7 @@ namespace ilikeswitch
                     Console.WriteLine("잘못입력하셨습니다.");
                     break;
             }
-            Console.WriteLine("수강해야 하는 전공 학점 : "+hakjum+"학점")
+            Console.WriteLine("수강해야 하는 전공 학점 : " + hakjum + "학점");
         }
     }
 }
